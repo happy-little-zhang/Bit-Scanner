@@ -1,5 +1,5 @@
 # Bit-Scanner
-Dataset and source file for the paper "Bit Scanner: Anomaly Detection for in-vehicle CAN bus using Binary Sequence Whitelisting"
+Dataset and source file for the paper "Bit Scanner: Anomaly Detection for In-vehicle CAN bus using Binary Sequence Whitelisting"
 
 
 To promote transparency, reproducibility, and further research in our field, we have publicly released our dataset and source code on GitHub at [{BitScanner}{https://github.com/happy-little-zhang/Bit-Scanner}]. The dataset includes all the normal CAN traffic, and our source code includes detailed instructions on how to use it, as well as any necessary dependencies and parameters. By releasing our dataset and source code, we aim to facilitate research in this area and encourage collaboration and innovation in the scientific community. We hope that our contribution will help advance the state of the art and inspire others to build on our work.
@@ -21,3 +21,32 @@ To run this code successfully, please ensure there are CAN dataset under the fol
 
 ## 3.Bit-Scanner-experiments-results
 Visualization and analysis of experiments results are implemented in python language.
+
+# 4.Paper details
+If you are interested in our work, please access following URL:
+
+https://doi.org/10.1016/j.cose.2023.103436
+
+If you used our resources, please cite our work:
+
+MLA:
+
+Zhang, Guiqi, et al. "Bit Scanner: Anomaly Detection for in-vehicle CAN bus using Binary Sequence Whitelisting." Computers & Security (2023): 103436.
+
+BibText:
+
+@article{zhang2023bit,
+
+  title={Bit Scanner: Anomaly Detection for in-vehicle CAN bus using Binary Sequence Whitelisting},
+  
+  author={Zhang, Guiqi and Liu, Qi and Cao, Chenhong and Li, Jiangtao and Li, Yufeng},
+  
+  journal={Computers \& Security},
+  
+  pages={103436},
+  
+  year={2023},
+  
+  publisher={Elsevier}
+  
+}
