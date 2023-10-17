@@ -36,12 +36,20 @@ Zhang, Guiqi, et al. "Bit scanner: Anomaly detection for in-vehicle CAN bus usin
 BibText:
 
 @article{zhang2023bit,
+
   title={Bit scanner: Anomaly detection for in-vehicle CAN bus using binary sequence whitelisting},
+  
   author={Zhang, Guiqi and Liu, Qi and Cao, Chenhong and Li, Jiangtao and Li, Yufeng},
+  
   journal={Computers \& Security},
+  
   volume={134},
+  
   pages={103436},
+  
   year={2023},
+  
   publisher={Elsevier}
+  
 }
 
