@@ -27,29 +27,25 @@ If you are interested in our work, please access following URL:
 
 https://doi.org/10.1016/j.cose.2023.103436
 
-If you used our resources, please cite our work:
+
+If you use our resources, please cite our work:
 
 MLA:
-
+```
 Zhang, Guiqi, et al. "Bit scanner: Anomaly detection for in-vehicle CAN bus using binary sequence whitelisting." Computers & Security 134 (2023): 103436.
+```
+
 
 BibText:
-
+```
 @article{zhang2023bit,
-
   title={Bit scanner: Anomaly detection for in-vehicle CAN bus using binary sequence whitelisting},
-  
   author={Zhang, Guiqi and Liu, Qi and Cao, Chenhong and Li, Jiangtao and Li, Yufeng},
-  
   journal={Computers \& Security},
-  
   volume={134},
-  
   pages={103436},
-  
   year={2023},
-  
   publisher={Elsevier}
-  
 }
+```
 
