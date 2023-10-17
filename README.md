@@ -1,5 +1,5 @@
 # Bit-Scanner
-Dataset and source file for the paper "Bit Scanner: Anomaly Detection for In-vehicle CAN bus using Binary Sequence Whitelisting"
+Dataset and source file for the paper "Bit scanner: Anomaly detection for in-vehicle CAN bus using binary sequence whitelisting"
 
 
 To promote transparency, reproducibility, and further research in our field, we have publicly released our dataset and source code on GitHub at [{BitScanner}{https://github.com/happy-little-zhang/Bit-Scanner}]. The dataset includes all the normal CAN traffic, and our source code includes detailed instructions on how to use it, as well as any necessary dependencies and parameters. By releasing our dataset and source code, we aim to facilitate research in this area and encourage collaboration and innovation in the scientific community. We hope that our contribution will help advance the state of the art and inspire others to build on our work.
